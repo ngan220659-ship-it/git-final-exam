@@ -1,0 +1,6 @@
+Tính năng mới của dự án:
+- Quản lý sinh viên.
+- Quản lý bài tập Git.
+- Tự động tạo báo cáo PDF.
+- Giao diện dễ sử dụng.
+- Đồng bộ dữ liệu với GitHub.
