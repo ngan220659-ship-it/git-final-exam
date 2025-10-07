@@ -1,3 +1,6 @@
 - Cảm nhận 1: Git giúp quản lý mã nguồn hiệu quả.
 - Cảm nhận 2: Học được cách dùng branch và merge.
 - Cảm nhận 3: Dễ dàng cộng tác với bạn bè qua GitHub.
+- Cảm nhận 4: Biết dùng reset và revert để sửa lỗi.
+- Cảm nhận 5: Tự tin hơn khi làm việc nhóm.
+- Cảm nhận 5: Tự tin hơn khi cộng tác nhóm.
