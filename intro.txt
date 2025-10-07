@@ -1,0 +1,5 @@
+Tôi là Nguyễn Hữu Ngạn.
+Sinh viên Đại học Nam Cần Thơ.
+Chuyên ngành Công nghệ thông tin.
+Sở thích: nghe nhạc,...
+Kỹ năng: C, Python, Git, SQL.
