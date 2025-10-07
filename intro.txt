@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, this is Nguyen Huu Ngan.
+=======
+Xin chào, tôi là Nguyễn Hữu Ngạn.
+>>>>>>> feature-update
+Conflict resolved on 07/10/2025.
