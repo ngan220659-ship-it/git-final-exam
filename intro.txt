@@ -1,0 +1,11 @@
+Tôi là Nguyễn Hữu Ngạn.
+Sinh viên Đại học Nam Cần Thơ.
+Chuyên ngành Công nghệ thông tin.
+Sở thích: nghe nhạc,...
+Kỹ năng: C, Python, Git, SQL.
+[Kế hoạch học tập]
+- Ngày 1: Học lệnh Git cơ bản.
+- Ngày 2: Thực hành commit và branch.
+- Ngày 3: Thực hành merge và revert.
+- Ngày 4: Tìm hiểu tag và stash.
+- Ngày 5: Làm báo cáo tổng kết.
